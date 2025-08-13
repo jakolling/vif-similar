@@ -1,7 +1,5 @@
-streamlit
-pandas
-numpy
-scipy
-matplotlib
-openpyxl
-mplsoccer
+scipy>=1.0.0
+streamlit>=1.0.0
+pandas>=1.0.0
+numpy>=1.0.0
+matplotlib>=3.0.0
